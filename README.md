@@ -1,2 +1,5 @@
-# dotfiles
+<hr>
+
 My dotfiles
+
+<hr>
