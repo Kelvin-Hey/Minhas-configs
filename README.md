@@ -1,5 +1,5 @@
 <hr>
 
-My dotfiles
+Meus arquivos de configuração 
 
 <hr>
