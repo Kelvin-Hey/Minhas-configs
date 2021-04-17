@@ -1,0 +1,2 @@
+exec_always polybar -c ~/.config/polybar/shapes/config.ini main &
+
